@@ -1,0 +1,17 @@
+.header-link-button {
+	color: black !important;
+	text-transform: none !important;
+	font-weight: 300 !important;
+	text-decoration: underline !important;
+	flex-grow: 2 !important;
+	font-size: 2rem;
+}
+
+.feature-box {
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+		url(./assets/sampleImage.jpeg);
+	background-size: cover;
+	background-position-y: center;
+
+	color: white !important;
+}
